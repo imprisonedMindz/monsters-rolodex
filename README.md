@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a sample React project creating and linking several components to create a website of monster cards with info fetched from a JSON file and a search filter. 
 
 ## Available Scripts
 
